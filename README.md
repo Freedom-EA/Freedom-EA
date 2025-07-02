@@ -2,23 +2,17 @@
 <a href="https://linkedin.com/in/freedom-akor"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m a computer engineering graduate passionate about building secure, intelligent, and connected systems for Africa’s future. With foundational experience in cybersecurity, and growing expertise in AI, machine learning, and telecom infrastructure, I’m focused on solving real world problems through innovation.
 
-## Objective
+I’m the founder of VICRA, a vision-driven startup working across cybersecurity, AI solutions, and next-gen internet services starting in Nigeria, built for Africa.
 
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m currently exploring:
+	•	AI-powered cybersecurity tools & training
+	•	Voice AI agents in local languages
+	•	Low-latency internet infrastructure for creators & developers
+	•	Long-term: an AI-first OS & African-made tech devices
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Google Cyber Security Course Lab|
-| Network Traffic Monitoring and Attack Detection |Google Cyber Security Course Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Threats and Vulnerability Management           | SOC Automation Lab|
-| Scripting and Automation with Python |Google Cyber Security Course Lab|
-| Networks and Network security |ISC2 CC|
+Let’s connect if you’re passionate about technology, nation-building, or African-led innovation.
 
 
 ## Tools
