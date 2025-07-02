@@ -34,9 +34,7 @@ Let’s connect if you’re passionate about technology, nation-building, or Afr
     <img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    
+  
   
 </div>
 
