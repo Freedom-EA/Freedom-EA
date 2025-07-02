@@ -32,7 +32,10 @@ Let’s connect if you’re passionate about technology, nation-building, or Afr
     <img src="https://img.shields.io/badge/-Natural Language Processing-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />    
     <img src="https://img.shields.io/badge/-SQL-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Scikit-learn-d4cfc9?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scikit-learn-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas & NumPy-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TensorFlow (basic)-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Matplotlib-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
   
