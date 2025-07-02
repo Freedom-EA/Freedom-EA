@@ -48,6 +48,3 @@ Let’s connect if you’re passionate about technology, nation-building, or Afr
 <img src="https://img.shields.io/badge/-ISC2%20CC-00A04A?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
